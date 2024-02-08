@@ -1,0 +1,22 @@
+:root {
+  /*Основные цвета сайта */
+  --primary: #2D3047;
+  --primary-hight: #1B998B;
+  --relax: #955493;
+  --attention: #D36135;
+  --success: #299F5E;
+  --danger: #E84855;
+  --link: #0853d5;
+
+  /*Базовые цвета сайта */
+  --base-01: #FFFFFF;
+  --base-02: #F0F3F6;
+  --base-03: #E3E4E8;
+  --base-04: #B9BCC6;
+  --base-05: #9DA1AE;
+  --base-06: #818698;
+  --base-07: #5C6170;
+  --base-08: #454954;
+  --base-09: #2E3038;
+  --base-10: #121212;
+}

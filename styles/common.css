@@ -1,0 +1,122 @@
+/*
+  desktop: >1440px = 90rem
+  tablet: >768px = 48rem
+  phone: >375px
+*/
+
+/*Размещение текста*/
+.text-center {
+  text-align: center !important;
+}
+
+.text-left {
+  text-align: left !important;
+}
+
+.text-right {
+  text-align: right !important;
+}
+
+/*Задний фон*/
+.bg-01 {
+  background-color: var(--base-01) !important;
+}
+
+.bg-02 {
+  background-color: var(--base-02) !important;
+}
+
+/*Внутренний отступ*/
+.p-0 {
+  padding: 0 !important;
+}
+
+.p-1 {
+  padding: 0.5rem !important;
+}
+
+.p-2 {
+  padding: 0.75rem !important;
+}
+
+.p-3 {
+  padding: 1rem !important;
+}
+
+/*Внешний отступ*/
+.m-0 {
+  margin: 0 !important;
+}
+
+.m-1 {
+  margin: 0.5rem !important;
+}
+
+.m-2 {
+  margin: 0.75rem !important;
+}
+
+.m-3 {
+  margin: 1rem !important;
+}
+
+/*Отступы снизу*/
+.mb-0 {
+  margin-bottom: 0 !important;
+}
+
+.mb-1 {
+  margin-bottom: 0.5rem !important;
+}
+
+.mb-2 {
+  margin-bottom: 0.75rem !important;
+}
+
+.mb-3 {
+  margin-bottom: 1rem !important;
+}
+
+/*Отступы сверху*/
+.mt-0 {
+  margin-top: 0 !important;
+}
+
+.mt-1 {
+  margin-top: 0.5rem !important;
+}
+
+.mt-2 {
+  margin-top: 0.75rem !important;
+}
+
+.mt-3 {
+  margin-top: 1rem !important;
+}
+
+/*Закругления*/
+.rounded-1 {
+  border-radius: 0.5rem !important;
+}
+
+.rounded-2 {
+  border-radius: 0.75rem !important;
+}
+
+.rounded-3 {
+  border-radius: 1rem !important;
+}
+
+/*Отступы*/
+.gap-1 {
+  gap: 0.5rem !important;
+}
+
+.gap-2 {
+  gap: 0.75rem !important;
+}
+
+.gap-3 {
+  gap: 1rem !important;
+}
+
