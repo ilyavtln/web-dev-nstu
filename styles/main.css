@@ -21,3 +21,9 @@ body {
   margin-right: auto;
   margin-left: auto;
 }
+
+.img3{
+  width: 100%;
+  margin: 5px;
+  border-radius: 1rem !important;
+}
