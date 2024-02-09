@@ -41,3 +41,14 @@
   margin-left: 40cm;
   margin-right: 20cm;
 }
+
+.nav-item {
+  color: var(--primary);
+  font-size: 1rem;
+}
+
+.nav-item:hover {
+  color: var(--link);
+  font-size: 1.05rem;
+  animation: ease-in 0.3s;
+}

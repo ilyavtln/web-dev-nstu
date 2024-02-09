@@ -17,7 +17,28 @@
   text-align: right !important;
 }
 
+/*Цвет*/
+.text-primary {
+  color: var(--primary) !important;
+}
+
+.text-01-color {
+  color: var(--base-01) !important;
+}
+
+.text-10-color {
+  color: var(--base-10) !important;
+}
+
 /*Задний фон*/
+.bg-primary {
+  background-color: var(--primary) !important;
+}
+
+.bg-primary-hight {
+  background-color: var(--primary-hight) !important;
+}
+
 .bg-01 {
   background-color: var(--base-01) !important;
 }
@@ -118,5 +139,48 @@
 
 .gap-3 {
   gap: 1rem !important;
+}
+
+/*Кнопка*/
+.btn {
+  --button-height: 2.75rem;
+  --button-font-size: .875rem;
+  --button-line-height: 1.7;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: var(--button-height);
+  padding: 0 1.5rem;
+  border-radius: 0.75rem;
+  white-space: nowrap;
+  font-size: var(--button-font-size);
+  line-height: var(--button-line-height);
+  border: 1px solid var(--primary);
+  box-sizing: border-box;
+  text-align: center;
+  transition: all .3s;
+  color: var(--primary);
+  background-color: var(--base-01);
+  cursor: pointer;
+}
+
+.btn-primary {
+  color: var(--base-01);
+  background-color: var(--primary-hight);
+  border-color: transparent;
+}
+
+/*Ширина*/
+.w-100 {
+  width: 100% !important;
+}
+
+.w-auto {
+  width: auto !important;
+}
+
+.w-fit-content {
+  width: fit-content !important;
 }
 

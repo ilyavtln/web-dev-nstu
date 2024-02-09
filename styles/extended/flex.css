@@ -1,5 +1,11 @@
 /*Работа с флексами*/
 
+/*
+  desktop: >1440px = 90rem
+  tablet: >768px = 48rem
+  phone: >375px
+*/
+
 .d-flex {
   display: flex !important;
 }
@@ -10,4 +16,52 @@
 
 .align-items-center {
   align-items: center !important;
+}
+
+.align-items-md-center {
+  @media (min-width: 48rem) {
+    align-items: center !important;
+  }
+}
+
+.align-items-lg-center {
+  @media (min-width: 90rem) {
+    align-items: center !important;
+  }
+}
+
+.justify-content-between {
+  justify-content: space-between !important;
+}
+
+.flex-column {
+  flex-direction: column !important;
+}
+
+.flex-md-column {
+  @media (min-width: 48rem) {
+    flex-direction: column !important;
+  }
+}
+
+.flex-lg-column {
+  @media (min-width: 90rem) {
+    flex-direction: column !important;
+  }
+}
+
+.flex-row {
+  flex-direction: row !important;
+}
+
+.flex-md-row {
+  @media (min-width: 48rem) {
+    flex-direction: row !important;
+  }
+}
+
+.flex-lg-row {
+  @media (min-width: 90rem) {
+    flex-direction: row !important;
+  }
 }
