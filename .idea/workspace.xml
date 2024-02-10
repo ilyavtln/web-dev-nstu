@@ -6,8 +6,23 @@
   <component name="ChangeListManager">
     <list default="true" id="cd87fa79-4518-48d2-bbfe-65010adb5c37" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/news1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/news1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/news2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/news2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/news3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/news3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/news4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/news4.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/news5.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/news5.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/news6.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/news6.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/news1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/news2.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/news2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/news3.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/news3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/news4.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/news4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/news5.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/news5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/news6.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/news6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,33 +40,34 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2c62zJPCgGy7yLGGJWzad4gIKzR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.editor",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Web dev\web-dev-nstu\assets\images" />
       <recent name="E:\Web dev\web-dev-nstu\pages" />
     </key>
   </component>
@@ -69,5 +85,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

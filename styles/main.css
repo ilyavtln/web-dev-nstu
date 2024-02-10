@@ -26,6 +26,12 @@ a {
   margin-left: auto;
 }
 
+.small-container {
+  width: 60%;
+  margin-right: auto;
+  margin-left: 5%;
+}
+
 .container {
   width: 90%;
   margin-right: auto;
@@ -41,6 +47,18 @@ a {
 
   @media (min-width: 90rem) {
     font-size: 3rem;
+  }
+}
+
+.page-sub-title {
+  font-size: 1rem;
+
+  @media (min-width: 48rem) {
+    font-size: 1.25rem;
+  }
+
+  @media (min-width: 90rem) {
+    font-size: 1.5rem;
   }
 }
 

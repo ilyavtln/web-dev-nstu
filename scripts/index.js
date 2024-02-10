@@ -4,7 +4,7 @@ const news = [{
   description: 'Стал извеcтен самый криминальный район Новосибирска. Об этом nsk.aif.ru сообщили в региональной прокуратуре.',
   date: '09.02.2024 06:05',
   href: 'news-1',
-  page: 'news.html'
+  page: 'news1.html'
 }, {
   id: 2,
   title: '«Локомотив» в гостях обыграл петербургский «Зенит» в суперлиге, отыгравшись со счета 0–2»',
@@ -66,7 +66,7 @@ const navHtml = `
               <div class="d-flex flex-column flex-md-row align-items-start align-items-md-center gap-3">
                     <a class="nav-item" href="../index.html"><img class="nav-logo" src="assets/logos/icon.svg"></a>
                     <a class="nav-item" href="../index.html">Главная страница</a>
-                    <a class="nav-item" href="/pages/news.html">Новости</a>
+                    <a class="nav-item" href="/pages/news1.html">Новости</a>
                     <a class="nav-item" href="/pages/info.html">Контакты</a>
                     <!-- <a href="/">Скоро</a> -->
               </div>
