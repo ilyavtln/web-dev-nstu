@@ -184,3 +184,15 @@
   width: fit-content !important;
 }
 
+ /*Изображения*/
+.img-left {
+  float: left;
+  width: 30% !important;
+  padding-right: 20px;
+}
+
+.img-right {
+  float: right;
+  width: 40% !important;
+  padding-left: 20px;
+}
