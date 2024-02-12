@@ -27,9 +27,19 @@ a {
 }
 
 .small-container {
-  width: 60%;
+  width: 100%;
   margin-right: auto;
-  margin-left: 5%;
+  margin-left: auto;
+
+  @media (min-width: 48rem) {
+    width: 75%;
+    margin-right: auto;
+    margin-left: 5%;
+  }
+
+  @media (min-width: 90rem) {
+    width: 60%;
+  }
 }
 
 .container {
