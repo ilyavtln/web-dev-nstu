@@ -52,20 +52,3 @@ news.forEach(post => {
   `;
   postListDiv.innerHTML += postHtml;
 });
-
-const navItem = document.getElementById('navigation');
-
-const navHtml = `
-    <nav class="navbar bg-01 p-1">
-        <div class="container">
-              <div class="d-flex flex-column flex-md-row align-items-start align-items-md-center gap-3">
-                    <a class="nav-item" href="../index.html"><img class="nav-logo" src="assets/logos/icon.svg"></a>
-                    <a class="nav-item" href="../index.html">Главная страница</a>
-                    <a class="nav-item" href="/pages/news1.html">Новости</a>
-                    <a class="nav-item" href="/pages/info.html">Контакты</a>
-                    <!-- <a href="/">Скоро</a> -->
-              </div>
-        </div>
-    </nav>
-  `;
-navItem.innerHTML = navHtml;
