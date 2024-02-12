@@ -49,7 +49,7 @@ news.forEach(post => {
     <div class="d-flex flex-column justify-content-between bg-02 rounded-3 p-3">
       <div>
         <div class="p-1 mb-2 bg-primary rounded-1 text-01-color w-fit-content">${post?.date}</div>
-        <img class="w-100 rounded-2" src="/assets/images/${post?.href}.jpg" alt="Новости">
+        <img class="w-100 rounded-2" src="assets/images/${post?.href}.jpg" alt="Новости">
         <h3>${post?.title}</h3>
         <p>${post?.description}</p>
       </div>
