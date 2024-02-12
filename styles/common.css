@@ -17,6 +17,15 @@
   text-align: right !important;
 }
 
+/*Размер текста*/
+.descr1 {
+  font-size: 0.75rem;
+}
+
+.descr2 {
+  font-size: 0.5rem;
+}
+
 /*Цвет*/
 .text-primary {
   color: var(--primary) !important;
@@ -24,6 +33,10 @@
 
 .text-01-color {
   color: var(--base-01) !important;
+}
+
+.text-06-color {
+  color: var(--base-06) !important;
 }
 
 .text-10-color {
