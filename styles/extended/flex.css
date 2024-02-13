@@ -1,11 +1,5 @@
 /*Работа с флексами*/
 
-/*
-  desktop: >1440px = 90rem
-  tablet: >768px = 48rem
-  phone: >375px
-*/
-
 .d-flex {
   display: flex !important;
 }
